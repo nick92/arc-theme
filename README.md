@@ -4,7 +4,7 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell w
 
 This Fork provides colour icons for minimise, maximise and close, at the minute only supporting Xfce and GTK theming. 
 
-![arc-incolour](http://imgur.com/05HSAfj)
+![arc-incolour](http://i.imgur.com/05HSAfj.png)
 
 ## Installation
 
